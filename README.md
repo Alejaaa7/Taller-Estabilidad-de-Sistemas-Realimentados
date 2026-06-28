@@ -31,7 +31,7 @@ El sistema es estable para:
 
 **K > 0.5403**
 
-En K ≈ 0.5403 el sistema presenta un par de polos puramente imaginarios en ±j1.4424 rad/s, punto en el cual el sistema pasa de inestable a marginalmente estable. (ver [desarrollo analítico a mano](imagenes/desarrollo.jpeg)
+En K ≈ 0.5403 el sistema presenta un par de polos puramente imaginarios en ±j1.4424 rad/s, punto en el cual el sistema pasa de inestable a marginalmente estable. (ver [desarrollo analítico a mano](imagenes/desarrollo.jpeg))
 
 ### Gráficas
 

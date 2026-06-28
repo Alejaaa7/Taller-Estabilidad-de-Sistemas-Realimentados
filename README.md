@@ -37,17 +37,17 @@ En K ≈ 0.5403 el sistema presenta un par de polos puramente imaginarios en ±j
 
 #### Lugar de las Raíces
 
-![Lugar de las Raíces](imagenes/LR.jgp)
+![Lugar de las Raíces](imagenes/LR.jpg)
 
 #### Lugar de las Raíces Complementario
 
-![Lugar de las Raíces Complementario](imagenes/LRC.jgp)
+![Lugar de las Raíces Complementario](imagenes/LRC.jpg)
 
 #### Diagrama de Bode
 ![Bode](imagenes/BODE.jpg)
 
 ### Diagrama de Nyquist
-![Nyquist](imagenes/nyquist.jpg)
+![Nyquist](imagenes/Nyquist.jpg)
 
 ### Verificación cruzada de resultados
 

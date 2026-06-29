@@ -16,7 +16,7 @@ En el presente taller se aborda el análisis de estabilidad de dos sistemas real
 Contiene el análisis de estabilidad del sistema realimentado continuo:
 
 $$
-GH(s) = (s² + 2s + 1) / (s³ + 0.2s² + s + 1)
+GH(s) = \frac{s² + 2s + 1} {s³ + 0.2s² + s + 1}
 $$
 
 Se determina el rango de valores de la ganancia K para el cual el sistema es estable, 
@@ -69,7 +69,7 @@ Los cuatro métodos coinciden, confirmando la consistencia del análisis.
 Contiene el análisis de estabilidad del sistema realimentado discreto:
 
 $$
-GH(z) = (z² + 2z + 1) / (z³ + 0.2z² + z + 1)
+GH(z) = \frac{z² + 2z + 1} {z³ + 0.2z² + z + 1}
 $$
 
 Se determina el rango de valores de la ganancia K para el cual el sistema es estable, 
@@ -109,7 +109,7 @@ En $K ≈ -0.2857$, dos de los polos del sistema abandonan el círculo unitario 
 
 | Método | Valor crítico obtenido |
 |---|---|
-| Jury |$ -2/7 > K > -0.8$ |
+| Jury | -2/7 > K > -0.8 |
 | Lugar de las Raíces | cruces en ω ≈ ±1.1593 rad/s y 0 rad/s|
 | Bode | \|GH(eʲʷ)\| = 1.938 dB → 1/K = - 1.25 → K = - 0.8 <br> \|GH(eʲʷ)\| = 10.881 dB → 1/K = - 3.499 → K ≈ - 0.2857|
 | Nyquist | corte en eje real en: <br>  1.25 = −1/K → K = - 0.8 <br> 3.499 ≈ −1/K → K ≈ - 0.2857|
